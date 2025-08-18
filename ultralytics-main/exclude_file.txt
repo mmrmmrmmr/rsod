@@ -1,0 +1,14 @@
+*.pth
+*.zip
+*.jpg
+*.png
+out1.out
+out2.out
+out3.out
+out4.out
+nohup.out
+train_1.py
+train_2.py
+train_3.py
+train_4.py
+test_1.py
